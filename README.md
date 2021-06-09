@@ -12,9 +12,10 @@ Anyone who sends you a message from Telegram can also delete your message from y
 2. Close the running Telegram process.  
 3. Run the Telegram program.
 
-# How to receive :
+# How  :
 ----------------------
 - 📌 You can get the tool through the following sites or our Telegram channel
+- 🔞 https://www.youtube.com/watch?v=T9jlCYxnr6M&ab_channel=hack4lx
 - 🔞 https://m4nifest0.com
 - 🔞 https://m4nifest0.group
 - 🔞 https://m4nifest0.shop
